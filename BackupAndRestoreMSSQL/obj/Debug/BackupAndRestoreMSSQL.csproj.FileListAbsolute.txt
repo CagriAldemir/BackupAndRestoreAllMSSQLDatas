@@ -1,0 +1,9 @@
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\bin\Debug\WindowsFormsApplication1.exe
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\bin\Debug\WindowsFormsApplication1.pdb
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\obj\Debug\BackupAndRestoreMSSQL.csprojResolveAssemblyReference.cache
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\obj\Debug\BackupAndRestoreMSSQL.csproj.GenerateResource.Cache
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\obj\Debug\WindowsFormsApplication1.exe
+D:\ROOT\Projects\VisualStudio\Projects\BackupAndRestoreAllData\BackupAndRestoreMSSQL\obj\Debug\WindowsFormsApplication1.pdb
